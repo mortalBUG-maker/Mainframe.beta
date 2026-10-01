@@ -1,0 +1,6 @@
+{
+  "name": "Mainframe® Hero & Inquiries",
+  "description": "Interactive hero section with video scrubbing, typewriter typography, and service selection for Mainframe®.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
